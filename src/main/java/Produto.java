@@ -1,3 +1,4 @@
+import java.util.Locale;
 
 public class Produto {
     private String name;
@@ -31,22 +32,22 @@ public class Produto {
     public char getUnitytype(){
         return unitytype;
     }
-    public void setName(){
+    public void setName(String name){
         this.name = name;
     }
-    public void setDescription(){
+    public void setDescription(String description){
         this.description = description;
     }
-    public void setPicture(){
+    public void setPicture(String Picture){
         this.picture = picture;
     }
-    public void setCategory(){
+    public void setCategory(Categoria category){
         this.category = category;
     }
-    public void setPrice(){
+    public void setPrice(double price){
         this.price = price;
     }
-    public void setUnitytype(){
+    public void setUnitytype(char unitytype){
         this.unitytype = unitytype;
     }
 
