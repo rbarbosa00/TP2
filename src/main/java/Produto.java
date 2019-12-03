@@ -8,6 +8,10 @@ public class Produto {
     private double price;
     private char unitytype;
 
+    public Produto(String chocapic, String sabor_a_chocolate, String imagem, Categoria categoria3, int i, String un) {
+
+    }
+
     public String getName(){
         return name;
     }

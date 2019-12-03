@@ -5,6 +5,10 @@ public class User {
     private String password;
     private String  address;
 
+    public User(String maria_joana, String s, String mariajoana00, String w33d, Address address2) {
+
+    }
+
     public String getName(){
         return  name;
     }

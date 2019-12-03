@@ -2,6 +2,10 @@ import java.util.List;
 
 public class ListaCompras {
 
+    public ListaCompras(String s, User user1, User user2) {
+
+    }
+
     public void setProductlist1(List<Produto> Productlist1) {
         Productlist1 = Productlist1;
     }

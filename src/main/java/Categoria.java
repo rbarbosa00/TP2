@@ -3,6 +3,10 @@ public class Categoria {
     private String description;
     private String color;
 
+    public Categoria(String frutas, String maduras, String verde) {
+
+    }
+
     public String getName(){
         return name;
     }
