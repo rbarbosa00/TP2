@@ -3,7 +3,7 @@ public class Categoria {
     private String description;
     private String color;
 
-    public Categoria(String frutas, String maduras, String verde) {
+    public Categoria(String Produtos, String Tipo, String Cor) {
 
     }
 

@@ -8,7 +8,7 @@ public class Produto {
     private double price;
     private char unitytype;
 
-    public Produto(String chocapic, String sabor_a_chocolate, String imagem, Categoria categoria3, int i, String un) {
+    public Produto(String Nome , String Descrição, String Imagem, Categoria Categoria, int Quantidade, String Unidade) {
 
     }
 

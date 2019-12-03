@@ -2,7 +2,7 @@ import java.util.List;
 
 public class ListaCompras {
 
-    public ListaCompras(String s, User user1, User user2) {
+    public ListaCompras(String Lista, User user1, User user2) {
 
     }
 

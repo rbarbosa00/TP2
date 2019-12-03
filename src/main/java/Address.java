@@ -3,7 +3,7 @@ public class Address {
     private int doornol;
     private int postalcode;
 
-    public Address(String rua_de_sobrado, String s, String s1) {
+    public Address(String Nome, String Nporta, String CodigoPostal) {
 
     }
 
